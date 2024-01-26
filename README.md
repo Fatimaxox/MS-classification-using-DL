@@ -1,4 +1,4 @@
-# Multiple Sclerosis (MS) Classification using Deep Learning 🧠🔍
+# Multiple Sclerosis (MS) Classification using DL 🧠🔍
 
 Multiple Sclerosis (MS) is a persistent inflammatory disorder that affects the central nervous system, impacting approximately 2.5 million individuals worldwide. The gender ratio tilts in favor of women at around 2.01. The characteristic feature of MS includes the infiltration of immune cells into the central nervous system (CNS), causing localized inflammation, neuronal loss, and demyelination. The chronic demyelination process intensifies axonal damage, ultimately leading to atrophy—a substantial contributor to enduring neurological impairment.
 
